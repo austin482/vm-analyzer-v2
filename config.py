@@ -12,5 +12,5 @@ LARK_BASE_TOKEN      = os.getenv("LARK_BASE_TOKEN",      "FUBhb3uUaa0h21suULgluA
 LARK_TABLE_ID        = os.getenv("LARK_TABLE_ID",        "tblz3uSEbkQGVXRq")
 
 # ── AI ────────────────────────────────────────────────────────────────────────
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
 OPENROUTER_MODEL   = os.getenv("OPENROUTER_MODEL",   "openai/gpt-4o-mini")
