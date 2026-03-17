@@ -1,0 +1,2 @@
+# No third-party dependencies needed.
+# All HTTP calls use urllib (stdlib). All JSON uses json (stdlib).
